@@ -1,6 +1,8 @@
-# REBORN Dollar
+# REBORN Token
 
-리본 플랫폼 토큰
+[![Build Status](https://travis-ci.org/LeadersTech/reborn-dollar.svg?branch=master)](https://travis-ci.org/LeadersTech/reborn-dollar)
+
+
 
 ## 사양
 
